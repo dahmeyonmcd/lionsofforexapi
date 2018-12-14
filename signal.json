@@ -1,0 +1,27 @@
+{
+	"signals": [
+		{"date": "12/13/18", "type": "Buy", "symbol": "GBYJPY", "entry": "1.74707", "tp": "-", "sl": "30 pips behind", "followStop": "", "buyAreaZone": "", "pips": "closed +34 pips"},
+		{"date": "12/12/18", "type": "Buy", "symbol": "USDJPY", "entry": "113.240", "tp": "-", "sl": "20 pips behind", "followStop": "", "buyAreaZone": "", "pips": "closed +12 pips"},
+		{"date": "12/11/18", "type": "Buy", "symbol": "USDJPY", "entry": "113.320", "tp": "-", "sl": "20 pips behind", "followStop": "", "buyAreaZone": "", "pips": "closed +18 pips"},
+		{"date": "12/11/18", "type": "Buy", "symbol": "GBYJPY", "entry": "141.630", "tp": "-", "sl": "20 pips behind", "followStop": "", "buyAreaZone": "", "pips": "closed +26 pips"},
+		{"date": "12/11/18", "type": "Buy", "symbol": "USDJPY", "entry": "113.320", "tp": "-", "sl": "20 pips behind", "followStop": "", "buyAreaZone": "", "pips": "closed +38 pips"},
+		{"date": "12/11/18", "type": "Buy", "symbol": "GBYJPY", "entry": "142.714", "tp": "-", "sl": "25 pips behind", "followStop": "", "buyAreaZone": "", "pips": "closed +120 pips"},
+		{"date": "12/11/18", "type": "Buy", "symbol": "USDJPY", "entry": "130.070", "tp": "-", "sl": "20 pips behind", "followStop": "113.075+", "buyAreaZone": "113.075+", "pips": "closed +27 pips"},
+		{"date": "12/10/18", "type": "Buy", "symbol": "GBYJPY", "entry": "142.714", "tp": "-", "sl": "20 pips behind", "followStop": "", "buyAreaZone": "", "pips": "closed +26 pips"},
+		{"date": "12/10/18", "type": "Buy", "symbol": "AUDUSD", "entry": "0.71880", "tp": "-", "sl": "20 pips behind", "followStop": "", "buyAreaZone": "", "pips": "closed +31 pips"},
+		{"date": "12/10/18", "type": "Buy", "symbol": "USDJPY", "entry": "113.040", "tp": "-", "sl": "20 pips behind", "followStop": "", "buyAreaZone": "", "pips": "closed +16 pips"},
+		{"date": "12/10/18", "type": "Buy", "symbol": "AUDUSD", "entry": "113.040", "tp": "-", "sl": "20 pips behind", "followStop": "", "buyAreaZone": "", "pips": "closed 0 pips"},
+		{"date": "12/10/18", "type": "Sell", "symbol": "GBYJPY", "entry": "142.235", "tp": "-", "sl": "25 pips behind entry", "followStop": "", "buyAreaZone": "", "pips": "closed +21 pips"},
+		{"date": "12/7/18", "type": "Buy", "symbol": "USDJPY", "entry": "112.700", "tp": "-", "sl": "25 pips behind entry", "followStop": "112.700+", "buyAreaZone": "112.700+", "pips": "closed +28 pips"}
+
+	]
+}
+{
+	"users": [
+		{"admin": true, "membershipStatus": "Active", "userType": "Owner", "username": "bertodelvanicci1", "password": "lofAdmin1", "emailAddress": "bertodelvanicci@gmail.com", "dateJoined": "November 21, 2016", "firstName": "Berto", "lastName": "Delvanicci", "mobilePhone": "(555) 555-5555", "streetAddress": "455 Memory Ln", "city": "Miami", "state": "Florida", "zipCode": "00000", "billingStreetAddress": "455 Memory Ln", "billingCity": "Miami", "billingState": "Florida", "billingZipCode": "00000", "creditCardNumber": "4737-2663-3773-4895", "cvv": "847"},
+		{"admin": false, "membershipStatus": "Active", "userType": "User", "username": "RoyTaylor1", "password": "taylor1", "emailAddress": "bertodelvanicci@gmail.com", "dateJoined": "September 3, 2018", "firstName": "Roy", "lastName": "Taylor", "mobilePhone": "(555) 555-5555", "streetAddress": "1600 Vine St", "city": "Los Angeles", "state": "California", "zipCode": "90028", "billingStreetAddress": "455 Memory Ln", "billingCity": "Los Angeles", "billingState": "California", "billingZipCode": "00000", "creditCardNumber": "4737-2663-3773-4895", "cvv": "847"},
+		{"admin": false, "membershipStatus": "Active", "userType": "User", "username": "damedash1", "password": "dame1", "emailAddress": "bertodelvanicci@gmail.com", "dateJoined": "October 11, 2018", "firstName": "Dahmeyon", "lastName": "McDonald", "mobilePhone": "(843) 409-7901", "streetAddress": "2311 Dunwoody Xing", "city": "Atlanta", "state": "Georgia", "zipCode": "30338", "billingStreetAddress": "455 Memory Ln", "billingCity": "Atlanta", "billingState": "Georgia", "billingZipCode": "30338", "creditCardNumber": "4737-2663-3773-4895", "cvv": "847"},
+		{"admin": false, "membershipStatus": "Inactive", "userType": "User", "username": "user1", "password": "testuser1", "emailAddress": "bertodelvanicci@gmail.com", "dateJoined": "November 21, 2016", "firstName": "Jared", "lastName": "Rogers", "mobilePhone": "(364) 734-4773", "streetAddress": "887 N. Collins Rd", "city": "Denver", "state": "Colrado", "zipCode": "37746", "billingStreetAddress": "887 N. Collins Rd", "billingCity": "Denver", "billingState": "Colrado", "billingZipCode": "37463", "creditCardNumber": "4737-2663-3773-4895", "cvv": "847"}
+
+	]
+}
